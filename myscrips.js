@@ -1,5 +1,5 @@
 function myfunction(){
-	(`Jakob lugter`);
+	alert('Jakob lugter');
 }
 
 function skift(){
